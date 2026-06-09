@@ -50,19 +50,19 @@ Rustlings is a collection of small exercises designed to help developers learn R
 - [x] HashMaps
 - [x] Vecs
 - [x] Options
-- [ ] Clippy
-- [ ] Error Handling
-- [ ] Generics
-- [ ] Traits
-- [ ] Lifetimes
+- [x] Error Handling
+- [x] Generics
+- [x] Traits
+- [x] Lifetimes
 - [ ] Tests
 - [ ] Iterators
 - [ ] Smart Pointers
 - [ ] Threads
 - [ ] Macros
+- [ ] Clippy
 - [ ] Conversions
 
-- Completed: **12 / 23**
+- Completed: **16 / 23**
 
 ## Goal
 
